@@ -1,0 +1,10 @@
+.squad-builder {
+  width: 70%;
+  color: white;
+  min-height: 60vh;
+  padding: 10px;
+  /* margin-right: 30px; */
+  background-image: url("../../images/stadion.png");
+  background-size: cover;
+  background-position: center;
+}

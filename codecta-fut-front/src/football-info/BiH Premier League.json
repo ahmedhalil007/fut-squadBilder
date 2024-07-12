@@ -1,0 +1,74 @@
+[
+  {
+    "team_id": 1,
+    "team_name": "FK Igman",
+    "team_abbreviation": "AND",
+    "team_stadium": "Stade Constant Vanden Stock"
+  },
+  {
+    "team_id": 2,
+    "team_name": "FK Sloga Doboj",
+    "team_abbreviation": "ANT",
+    "team_stadium": "Bosuilstadion"
+  },
+  {
+    "team_id": 3,
+    "team_name": "FK Željezničar",
+    "team_abbreviation": "CEB",
+    "team_stadium": "Jan Breydel Stadium"
+  },
+  {
+    "team_id": 4,
+    "team_name": "FK Borac",
+    "team_abbreviation": "CLB",
+    "team_stadium": "Jan Breydel Stadium"
+  },
+  {
+    "team_id": 5,
+    "team_name": "FK Sarajevo",
+    "team_abbreviation": "EUP",
+    "team_stadium": "Kehrwegstadion"
+  },
+  {
+    "team_id": 6,
+    "team_name": "HŠK Posušje",
+    "team_abbreviation": "GNT",
+    "team_stadium": "Ghelamco Arena"
+  },
+  {
+    "team_id": 7,
+    "team_name": "NK Široki B.",
+    "team_abbreviation": "KVK",
+    "team_stadium": "Guldensporenstadion"
+  },
+  {
+    "team_id": 8,
+    "team_name": "FK Tuzla City",
+    "team_abbreviation": "KVM",
+    "team_stadium": "AFAS-stadion Achter de Kazerne"
+  },
+  {
+    "team_id": 9,
+    "team_name": "HŠK Zrinjski",
+    "team_abbreviation": "WES",
+    "team_stadium": "Het Kuipje"
+  },
+  {
+    "team_id": 10,
+    "team_name": "FK Velež",
+    "team_abbreviation": "OHL",
+    "team_stadium": "King Power at Den Dreef Stadium"
+  },
+  {
+    "team_id": 11,
+    "team_name": "NK GOŠK",
+    "team_abbreviation": "GNK",
+    "team_stadium": "Luminus Arena"
+  },
+  {
+    "team_id": 12,
+    "team_name": "FK Zvijezda - 09",
+    "team_abbreviation": "CHA",
+    "team_stadium": "Stade du Pays de Charleroi"
+  }
+]

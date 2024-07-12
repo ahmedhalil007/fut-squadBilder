@@ -1,0 +1,86 @@
+.leagueDropdown {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #55cca2;
+}
+
+.teamDropdown {
+  font-size: 18px;
+  margin-top: 20px;
+  color: #55cca2;
+}
+.countryDropdown {
+  font-size: 18px;
+  margin-top: 20px;
+  color: #55cca2;
+}
+
+.letterInput {
+  font-size: 18px;
+  margin-top: 20px;
+  color: #55cca2;
+}
+
+.select-dropdown {
+  width: 80%;
+  background-color: green;
+  border: none;
+  color: black;
+  border-radius: 5px;
+  margin-top: 8px;
+}
+
+.select-group {
+  margin-bottom: 20px;
+  outline: none;
+}
+
+.input-field {
+  width: 79%;
+  border-radius: 5px;
+  height: 35px;
+  margin-top: 8px;
+  font-size: 15px;
+  border: none;
+}
+
+.submit-button {
+  background-color: #55cca2;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 15px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 30px;
+  margin-left: 100px;
+}
+
+.submit-button:hover {
+  background-color: #246f50;
+}
+
+.loading-spinner {
+  display: inline-block;
+  border: 4px solid rgba(255, 255, 255, 0.3);
+  border-top: 4px solid #3498db;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.success-message {
+  color: #55cca2;
+  margin-top: 10px;
+  font-weight: bold;
+}

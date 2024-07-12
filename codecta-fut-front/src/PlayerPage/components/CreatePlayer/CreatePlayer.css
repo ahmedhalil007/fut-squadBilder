@@ -1,0 +1,11 @@
+.create-player {
+  width: 30%;
+  background-color: #212529;
+  color: white;
+  min-height: 100vh;
+  padding: 10px;
+}
+.logo {
+  width: 80%;
+  height: auto;
+}

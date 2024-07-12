@@ -1,0 +1,96 @@
+.teams-list {
+  color: white;
+  min-height: 60vh;
+  padding: 10px;
+}
+
+.teams-columns {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.single-team {
+  width: 80%;
+  margin-bottom: 10px;
+  background-color: #55cca2;
+  color: black;
+  font-weight: bold;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  border-radius: 5px;
+  justify-content: space-between;
+  transition: color 0.3s;
+  cursor: pointer;
+}
+.single-team:hover {
+  background-color: #007bff;
+  color: #fff;
+  /* opacity: 0.7; */
+}
+
+.single-team.selected {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.icons {
+  display: flex;
+  gap: 15px;
+  padding-right: 15px;
+}
+
+.remove-icon {
+  color: black;
+  font-size: 22px;
+  cursor: pointer;
+  transition: color 0.3s, font-size 0.3s;
+}
+.remove-icon:hover {
+  color: red;
+  font-size: 24px;
+}
+.update-icon {
+  color: #fbeaea;
+  font-size: 22px;
+  cursor: pointer;
+  transition: color 0.3s, font-size 0.3s;
+}
+.update-icon:hover {
+  opacity: 0.7;
+  font-size: 24px;
+}
+
+.update-form {
+  display: flex;
+  align-items: center;
+}
+
+.input-update {
+  padding: 7px;
+  height: 25px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+.send-update {
+  cursor: pointer;
+  color: #fbeaea;
+  font-size: 22px;
+}
+
+.exit-icon {
+  cursor: pointer;
+  color: black;
+  font-size: 23px;
+}
+
+.send-update:hover,
+.exit-icon:hover {
+  opacity: 0.5;
+}
